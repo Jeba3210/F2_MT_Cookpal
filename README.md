@@ -1,6 +1,6 @@
 # F2_MT_Cookpal
 
- An interactive recipe catalogue using HTML , CSS, JavaScript
+ An interactive recipe catalogue using HTML , CSS & JavaScript.
 
 Preview:
 
